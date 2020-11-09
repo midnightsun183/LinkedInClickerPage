@@ -10,12 +10,6 @@ body {
     background: #f1f1f1;
 }
 
-table.browserref td {
-    border: 1px solid #d4d4d4;
-    text-align: center;
-    padding: 8px;
-    vertical-align: top;
-}
 
 /* Header/Blog Title */
 .header {
@@ -57,7 +51,6 @@ bsEdge,
     /*background-color: #aaa;
     align: center;*/
     max-height: 44px;
-    max-width: 44px;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
@@ -74,7 +67,7 @@ bsFirefox,
 .bsFirefox {
     /*background-color: #aaa;
     align: center;*/
-    height: 44px;
+    max-height: 44px;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
@@ -101,6 +94,13 @@ bsFirefox,
 	
 .header h1 {
     font-size: 50px;
+}
+
+table.browserref td {
+    border: 1px solid #d4d4d4;
+    text-align: center;
+    padding: 8px;
+    vertical-align: top;
 }
 
 table.browserref {
