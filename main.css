@@ -68,8 +68,7 @@ bsFirefox,
 .bsFirefox {
     /*background-color: #aaa;
     align: center;*/
-    width: 100%;
-    height: 100%;
+    object-fit: scale-down;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
