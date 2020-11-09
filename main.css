@@ -96,7 +96,7 @@ bsFirefox,
 .header h1 {
     font-size: 50px;
 }
-
+/*
 table.browserref td {
     border: 1px solid #d4d4d4;
     text-align: center;
@@ -111,6 +111,7 @@ table.browserref {
     height:75px;
     max-height:75px; 
 }
+*/
 
 /* Style the top navigation bar */
 .topnav {
