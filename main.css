@@ -49,9 +49,11 @@ bsChrome,
     color: #555555;
     padding: 11px 5px 11px 5px;
     vertical-align: middle;
-    background-image: url(/images/Google_Chrome_icon_(September_2014).svg);
-
+    background-image: url(/images/Google_Chrome_icon_September_2014.svg);
 }
+
+
+
 
 .bgSizeContain {
   background-image: url("https://b.thumbs.redditmedia.com/oy9VnYHOrajBhnOrazUEyYexY5YkQxXxEh9Tg82wWEs.png");
