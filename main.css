@@ -50,7 +50,7 @@ bsEdge,
 .bsEdge {
     /*background-color: #aaa;
     align: center;*/
-    max-height: 44px;
+    max-height: auto;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
@@ -107,8 +107,8 @@ table.browserref {
     border-collapse: collapse;
     width: 100%;
     display: block;
-/*    height:50px;
-    max-height:50px; */
+    height:75px;
+    max-height:75px; 
 }
 
 /* Style the top navigation bar */
