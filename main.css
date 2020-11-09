@@ -106,6 +106,9 @@ bsFirefox,
 table.browserref {
     border-collapse: collapse;
     width: 100%;
+    display: block;
+    height:50px;
+    max-height:50px;
 }
 
 /* Style the top navigation bar */
