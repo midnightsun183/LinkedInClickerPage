@@ -60,6 +60,12 @@ bsChrome,
 .header h1 {
     font-size: 50px;
 }
+
+table.browserref {
+    border-collapse: collapse;
+    width: 100%;
+}
+
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
