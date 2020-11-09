@@ -51,8 +51,8 @@ bsEdge,
 .bsEdge {
     /*background-color: #aaa;
     align: center;*/
-    height: 14px;
-    width: 14px;
+    width: 100%;
+    height: 100%;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
@@ -69,7 +69,8 @@ bsFirefox,
 .bsFirefox {
     /*background-color: #aaa;
     align: center;*/
-    max-height: 44px;
+    width: 100%;
+    height: 100%;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
