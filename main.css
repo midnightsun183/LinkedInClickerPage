@@ -32,8 +32,6 @@ body {
 
 bsChrome,
 .bsChrome {
-    /*background-color: #aaa;
-    align: center;*/
     height: 14px;
     width: 14px;
     background-repeat: no-repeat;
@@ -49,26 +47,6 @@ bsChrome,
 
 bsEdge,
 .bsEdge {
-    /*background-color: #aaa;
-    align: center;*/
-    object-fit: contain;
-    background-repeat: no-repeat;
-    background-position: center center;
-    border: 1px solid #d4d4d4;
-    background-color: #f1f1f1;
-    font-weight: normal;
-    color: #555555;
-    padding: 11px 5px 11px 5px;
-    vertical-align: middle;
-    background-image: url(images/Edge Icon.svg);
-}
-
-
-bsFirefox,
-.bsFirefox {
-    /*background-color: #aaa;
-    align: center;
-    object-fit: scale-down;*/
     height: 14px;
     width: 14px;
     background-repeat: no-repeat;
@@ -77,11 +55,38 @@ bsFirefox,
     background-color: #f1f1f1;
     font-weight: normal;
     color: #555555;
-    padding: 11px 5px 11px 5px;
+    padding: 11px, 5px, 11px, 5px;
     vertical-align: middle;
-   /* background-image: url(images/Firefox_logo_2019.svg);*/
 }
 
+
+bsFirefox,
+.bsFirefox {
+    height: 14px;
+    width: 14px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 1px solid #d4d4d4;
+    background-color: #f1f1f1;
+    font-weight: normal;
+    color: #555555;
+    padding: 11px, 5px, 11px, 5px;
+    vertical-align: middle;
+}
+
+bsOpera,
+.bsOpera {
+    height: 14px;
+    width: 14px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 1px solid #d4d4d4;
+    background-color: #f1f1f1;
+    font-weight: normal;
+    color: #555555;
+    padding: 11px, 5px, 11px, 5px;
+    vertical-align: middle;
+}
 
 
 .bgSizeContain {
