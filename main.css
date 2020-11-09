@@ -34,7 +34,8 @@ bsChrome,
 .bsChrome {
     /*background-color: #aaa;
     align: center;*/
-    max-height: 44px;
+    height: 14px;
+    width: 14px;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
@@ -43,14 +44,15 @@ bsChrome,
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
     vertical-align: middle;
-    background-image: url(images/Firefox_logo_2019.svg);
+    background-image: url(images/Google_Chrome_icon_September_2014.svg);
 }
 
 bsEdge,
 .bsEdge {
     /*background-color: #aaa;
     align: center;*/
-    max-height: auto;
+    height: 14px;
+    width: 14px;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
