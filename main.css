@@ -56,7 +56,8 @@ bsEdge,
 .bsEdge {
     /*background-color: #aaa;
     align: center;*/
-    height: auto;
+    max-height: 44px;
+    max-width: 44px;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
