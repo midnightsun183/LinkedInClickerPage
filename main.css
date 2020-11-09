@@ -27,7 +27,17 @@ body {
 		width:auto;
 		height: auto;
 }
-	
+
+bsChrome,
+.bsChrome {
+    background-color: #aaa;
+    width: 100%;
+    padding: 10px;
+    image: url("https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Chrome_icon_%28September_2014%29.svg");
+}
+
+}
+
 .bgSizeContain {
   background-image: url("https://b.thumbs.redditmedia.com/oy9VnYHOrajBhnOrazUEyYexY5YkQxXxEh9Tg82wWEs.png");
   background-size: 160;
@@ -80,6 +90,7 @@ body {
     background-color: #aaa;
     width: 100%;
     padding: 20px;
+	
 }
 /* Add a card effect for articles */
 .card {
