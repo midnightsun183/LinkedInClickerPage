@@ -130,6 +130,9 @@ table.browserref {
     padding: 8px;
 }
 
+th {
+  height: 70px;
+}
 
 /* Style the top navigation bar */
 .topnav {
