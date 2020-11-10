@@ -69,6 +69,7 @@ bsFirefox,
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
     vertical-align: middle;
+    background-image: url(images/Firefox Icon.svg);
 }
 
 bsOpera,
@@ -81,6 +82,20 @@ bsOpera,
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
     vertical-align: middle;
+    background-image: url(images/Opera Icon.svg);
+}
+
+bsSafari,
+.bsSafari {
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 1px solid #d4d4d4;
+
+    font-weight: normal;
+    color: #555555;
+    padding: 11px, 5px, 11px, 5px;
+    vertical-align: middle;
+    background-image: url(images/Safari Icon.svg);
 }
 
 .bgSizeContain {
