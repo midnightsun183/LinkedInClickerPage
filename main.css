@@ -262,9 +262,7 @@ th {
     display: block;
 }
 
-
-
- ul li{
+li{
   list-style-image: url('images/Checkmark_Icon.svg');
   height: 25px;
   display: block;
@@ -275,14 +273,11 @@ th {
 
 footer,
 .footer {
-
     text-align: center;
     background: #ddd;
-
     position: relative;
     bottom: 0;
     height: 30px;
-
     padding: 20px;
     margin: 20px  auto 20px auto;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
