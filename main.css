@@ -262,6 +262,13 @@ th {
     display: block;
 }
 
+
+
+ ul {
+  list-style-image: url('images/Checkmark_Icon.svg');
+  height: 25px;
+}
+
 footer,
 .footer {
 
