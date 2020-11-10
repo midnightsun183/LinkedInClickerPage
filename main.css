@@ -137,10 +137,11 @@ table.browserref {
 }
 /* Change color on hover */
 .topnav a:hover {
-    margin: 10px auto 10px auto;
+    
     background-color: #ddd;
     color: black;
-   /* margin-bottom: 20px; */
+   /* margin: 10px auto 10px auto;
+	margin-bottom: 20px; */
 }
 /* Create two unequal columns that floats next to each other */
 /* Left column */
