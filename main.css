@@ -54,7 +54,7 @@ bsEdge,
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
     vertical-align: middle;
-    background-image: url(images/Edge Icon.svg);
+    background-image: url(images/Edge_Icon.svg);
 }
 
 bsFirefox,
@@ -69,7 +69,7 @@ bsFirefox,
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
     vertical-align: middle;
-    background-image: url(images/Firefox Icon.svg);
+    background-image: url(images/Firefox_Icon.svg);
 }
 
 bsOpera,
@@ -82,7 +82,7 @@ bsOpera,
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
     vertical-align: middle;
-    background-image: url(images/Opera Icon.svg);
+    background-image: url(images/Opera_Icon.svg);
 }
 
 bsSafari,
@@ -95,7 +95,7 @@ bsSafari,
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
     vertical-align: middle;
-    background-image: url(images/Safari Icon.svg);
+    background-image: url(images/Safari_Icon.svg);
 }
 
 .bgSizeContain {
