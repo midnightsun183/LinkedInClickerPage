@@ -36,7 +36,7 @@ bsChrome,
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
-    background-color: #f1f1f1;
+
     font-weight: normal;
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
@@ -46,12 +46,10 @@ bsChrome,
 
 bsEdge,
 .bsEdge {
-    height: 14px;
-    width: 14px;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
-    background-color: #f1f1f1;
+
     font-weight: normal;
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
@@ -60,12 +58,12 @@ bsEdge,
 
 bsFirefox,
 .bsFirefox {
-    height: 14px;
-    width: 14px;
+/*    height: 14px;
+    width: 14px; */
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
-    background-color: #f1f1f1;
+  /*  background-color: #f1f1f1;*/
     font-weight: normal;
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
@@ -74,12 +72,10 @@ bsFirefox,
 
 bsOpera,
 .bsOpera {
-    height: 14px;
-    width: 14px;
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
-    background-color: #f1f1f1;
+
     font-weight: normal;
     color: #555555;
     padding: 11px, 5px, 11px, 5px;
