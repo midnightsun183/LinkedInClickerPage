@@ -93,25 +93,37 @@ bsSafari,
     vertical-align: middle;
     background-image: url(images/Safari_Icon.svg);
 }
-
-.bulk-email_btn {
-    margin: 0 auto;
-}
-.bulk-email_btn {
-    display: block;
-    line-height: 55px;
-    width: 270px;
-}
-.blue-btn {
-    background: #184fe1;
-    border-radius: 4px;
-    font-weight: 700;
-    font-size: 14px;
-    text-align: center;
-    color: #fff;
-    cursor: pointer;
-    transition: .3s;
-}
+.button {
+   border-top: 1px solid #96d1f8;
+   background: #007ccf;
+   background: -webkit-gradient(linear, left top, left bottom, from(#006db5), to(#007ccf));
+   background: -webkit-linear-gradient(top, #006db5, #007ccf);
+   background: -moz-linear-gradient(top, #006db5, #007ccf);
+   background: -ms-linear-gradient(top, #006db5, #007ccf);
+   background: -o-linear-gradient(top, #006db5, #007ccf);
+   padding: 18px 36px;
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #ffffff;
+   font-size: 23px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #006cab;
+   background: #006cab;
+   color: #ffffff;
+   }
+.button:active {
+   border-top-color: #000000;
+   background: #000000;
+   }
 
 .bgSizeContain {
   background-image: url("https://b.thumbs.redditmedia.com/oy9VnYHOrajBhnOrazUEyYexY5YkQxXxEh9Tg82wWEs.png");
