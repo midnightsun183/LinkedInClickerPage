@@ -101,8 +101,7 @@ bsSafari,
    background: -moz-linear-gradient(top, #006db5, #007ccf);
    background: -ms-linear-gradient(top, #006db5, #007ccf);
    background: -o-linear-gradient(top, #006db5, #007ccf);
-   /*padding: 18px 36px;*/
-   padding: 18px auto 18px auto;
+   padding: 18px 36px;
    -webkit-border-radius: 7px;
    -moz-border-radius: 7px;
    border-radius: 7px;
@@ -115,6 +114,7 @@ bsSafari,
    font-family: Helvetica, Arial, Sans-Serif;
    text-decoration: none;
    vertical-align: middle;
+   margin: 10px auto 10px auto;
    }
 .button:hover {
    border-top-color: #006cab;
