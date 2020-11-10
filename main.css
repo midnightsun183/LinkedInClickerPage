@@ -105,6 +105,10 @@ table.browserref td {
 }
 */
 
+div.cardSpace {
+  column-gap: 40px;  
+}
+
 table.browserref {
     border-collapse: collapse;
     width: 100%;
