@@ -36,10 +36,9 @@ bsChrome,
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
-
     font-weight: normal;
     color: #555555;
-    padding: 11px, 5px, 11px, 5px;
+    padding: 11px, 11px, 11px, 11px;
     vertical-align: middle;
     background-image: url(images/Chrome_Icon.svg);
 }
@@ -49,10 +48,9 @@ bsEdge,
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
-
     font-weight: normal;
     color: #555555;
-    padding: 11px, 5px, 11px, 5px;
+    padding: 11px, 11px, 11px, 11px;
     vertical-align: middle;
     background-image: url(images/Edge_Icon.svg);
 }
@@ -67,7 +65,7 @@ bsFirefox,
   /*  background-color: #f1f1f1;*/
     font-weight: normal;
     color: #555555;
-    padding: 11px, 5px, 11px, 5px;
+    padding: 11px, 11px, 11px, 11px;
     vertical-align: middle;
     background-image: url(images/Firefox_Icon.svg);
 }
@@ -77,10 +75,9 @@ bsOpera,
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
-
     font-weight: normal;
     color: #555555;
-    padding: 11px, 5px, 11px, 5px;
+    padding: 11px, 11px, 11px, 11px;
     vertical-align: middle;
     background-image: url(images/Opera_Icon.svg);
 }
@@ -90,10 +87,9 @@ bsSafari,
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid #d4d4d4;
-
     font-weight: normal;
     color: #555555;
-    padding: 11px, 5px, 11px, 5px;
+    padding: 11px, 11px, 11px, 11px;
     vertical-align: middle;
     background-image: url(images/Safari_Icon.svg);
 }
