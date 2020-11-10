@@ -168,8 +168,6 @@ table.browserref {
 .card {
     background-color: grey;
     padding: 20px;
-   /* margin-top: 20px;
-    margin-bottom: 20px; */
     margin: 20px  auto 20px auto;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     width: 80%;
@@ -193,7 +191,7 @@ footer,
     position: relative;
     bottom: 0;
     height: 30px;
-    width: 80%;
+    width: 85%;
 
 }
 	
