@@ -125,13 +125,13 @@ table.browserref {
     border-collapse: collapse;
     width: 100%;
     display: block;
-    height:50px;
-    max-height:75px;
-    padding: 8px;
+    /* height:50px;
+    max-height:75px; */
+    padding: 8px auto 8px auto;
 }
 
 th {
-  height: 70px;
+  height: 45px;
 }
 
 /* Style the top navigation bar */
