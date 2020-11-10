@@ -264,9 +264,13 @@ th {
 
 
 
- ul {
+ ul li{
   list-style-image: url('images/Checkmark_Icon.svg');
   height: 25px;
+  display: block;
+  float: left;
+  list-style: none;
+  margin-right: 20px;
 }
 
 footer,
