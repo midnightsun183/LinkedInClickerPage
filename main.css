@@ -123,6 +123,7 @@ table.browserref {
 .topnav {
     overflow: hidden;
     background-color: #333;
+    margin: 10px auto 10px auto;
     width: 80%;
 }
 /* Style the topnav links */
@@ -136,6 +137,7 @@ table.browserref {
 }
 /* Change color on hover */
 .topnav a:hover {
+    margin: 10px auto 10px auto;
     background-color: #ddd;
     color: black;
    /* margin-bottom: 20px; */
@@ -186,7 +188,7 @@ footer,
     padding: 10px;
     text-align: center;
     background: #ddd;
-    margin-top: 10px;
+    margin: 10px auto 10px auto;
     position: relative;
     bottom: 0;
     height: 30px;
