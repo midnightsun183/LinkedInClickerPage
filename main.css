@@ -187,14 +187,18 @@ table.browserref {
 
 footer,
 .footer {
-    padding: 10px;
+
     text-align: center;
     background: #ddd;
-    margin: 10px auto 10px auto;
+
     position: relative;
     bottom: 0;
     height: 30px;
-    width: 85%;
+
+    padding: 20px;
+    margin: 20px  auto 20px auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 80%;
 
 }
 	
