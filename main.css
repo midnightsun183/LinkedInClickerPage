@@ -121,10 +121,13 @@ bsSafari,
    background: #006cab;
    color: #ffffff;
    }
+
+/*
 .button:active {
    border-top-color: #000000;
    background: #000000;
    }
+*/
 
 .bgSizeContain {
   background-image: url("https://b.thumbs.redditmedia.com/oy9VnYHOrajBhnOrazUEyYexY5YkQxXxEh9Tg82wWEs.png");
