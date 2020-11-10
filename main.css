@@ -160,12 +160,9 @@ table.browserref {
     background-color: grey;
     padding: 20px;
     margin-top: 20px;
-    /*width: 80%;
-    height: 160px;*/
-    /*border: 2px solid;/*
-    /*color: grey;
-    resize: both;
-    overflow: scroll;*/
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 80%;
+    float: center;
 }
 	
 /* Clear floats after the columns */
