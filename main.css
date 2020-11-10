@@ -262,7 +262,7 @@ th {
     display: block;
 }
 
-li{
+ul li{
   list-style-image: url('images/Checkmark_Icon.svg');
   height: 25px;
   display: block;
