@@ -188,7 +188,7 @@ table.browserref {
 }
 
 th {
-  height: 25px;
+  height: 45px;
   padding: 4px 8px 4px 8px ;
 }
 
@@ -232,6 +232,11 @@ th {
     width: 25%;
     background-color: #f1f1f1;
     padding-left: 20px;
+}
+
+/* box sizing for company logos*/
+* {
+  box-sizing: border-box;
 }
 
  /* Three image containers (use 26.6% for three, and 40% for two, etc) */
