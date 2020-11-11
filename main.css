@@ -337,10 +337,20 @@ footer,
     overflow: hidden;
 }
 
+/*
 #container {
     width: 100%;
     margin: 0 auto;
 }
+*/
+
+#container {
+ width: 1000px;
+ overflow: hidden;
+ margin: 50px auto;
+ background: white;
+}
+
 .banner-img {
     width: 100%;
 }
