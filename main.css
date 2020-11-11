@@ -234,9 +234,8 @@ th {
     padding-left: 20px;
 }
 
-/* box sizing for company logos*/
-* {
-  box-sizing: border-box;
+p {
+    font-size: 160%;
 }
 
  /* Three image containers (use 26.6% for three, and 40% for two, etc) */
