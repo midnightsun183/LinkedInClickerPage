@@ -241,9 +241,11 @@ th {
 
  /* Three image containers (use 26.6% for three, and 40% for two, etc) */
 .column {
-  float: left;
-  width: 26.6%;
-  padding: 5px;
+    float: left;
+    width: 20.0%;
+    height: 100px;
+    padding: 5px;
+    /*marrgin: 2px auto 2px auto;*/
 }
 
 /* Clear floats after image containers */
