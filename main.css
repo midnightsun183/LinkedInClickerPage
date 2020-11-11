@@ -245,7 +245,7 @@ th {
     width: 20.0%;
     height: 100px;
     padding: 5px;
-    /*marrgin: 2px auto 2px auto;*/
+    marrgin: 2px auto 2px auto;
 }
 
 /* Clear floats after image containers */
