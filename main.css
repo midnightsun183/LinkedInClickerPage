@@ -235,7 +235,8 @@ th {
 }
 
 p {
-    font-size: 160%;
+    font-size: 140%;
+    font-family: courier;
 }
 
  /* Three image containers (use 26.6% for three, and 40% for two, etc) */
