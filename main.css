@@ -287,7 +287,7 @@ p {
 
 .marginauto {
     margin: 10px auto 20px;
-    display: inline-block;
+    display: block;
 }
 
 ul li{
