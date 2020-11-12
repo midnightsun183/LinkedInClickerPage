@@ -242,10 +242,11 @@ p {
  /* Three image containers (use 26.6% for three, and 40% for two, etc) */
 .column {
     float: left;
-     /*width: 18.0%;*/
+    display: inline-block;
+    width: 16
     height: 100px;
-    padding: 0;
-   marrgin: 5px auto 5px auto;
+    padding: 5px 5px 5px 5px;
+  /* marrgin: 5px auto 5px auto;*/
 }
 
 /* Clear floats after image containers */
