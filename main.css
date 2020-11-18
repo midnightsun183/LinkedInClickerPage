@@ -24,11 +24,20 @@ body {
 
 .headerimg{
 	/*background-image: url("https://b.thumbs.redditmedia.com/oy9VnYHOrajBhnOrazUEyYexY5YkQxXxEh9Tg82wWEs.png"), target="blank";*/
-	background-image: url("images/Pro Logo2.jpg"), target="blank";
+	background-image: url("images/QuikApply/Logos/Quickapply_Logo.svg"), target="blank";
 	
     	/*background-repeat:no-repeat;*/	
 	width:auto;
 	height: auto;
+}
+
+
+/* Written for h4 tag, modify as required */
+.black-outline{
+    -webkit-text-stroke: 1.11px black; /* stroke width and color */
+    color: rgb(255, 255, 255);
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
 }
 
 bsChrome,
