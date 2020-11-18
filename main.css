@@ -20,19 +20,14 @@ body {
     
     min-height: 200px;
     max-height: 200px;
-    background-image: url(images/QuikApply/Logos/Quickapply_Logo.svg);	
+    background-image: url(images/QuikApply/Logos/Quickapply_Logo1.svg);	
     background-position: center center;
     background-size: contain;
     vertical-align: middle;
     background-repeat:no-repeat;
 }
 
-.headerimg{
-    
-    
 
-
-}
 
 
 /* Written for h4 tag, modify as required */
