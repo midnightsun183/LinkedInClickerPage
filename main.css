@@ -13,14 +13,16 @@ body {
 
 /* Header/Blog Title */
 .header {
-    padding: 20px;
+    
     text-align: center;		
-    width:100%;
+    width:auto;
     height: 200px;
+    
     min-height: 200px;
     max-height: 200px;
     background-image: url(images/QuikApply/Logos/Quickapply_Logo.svg);	
     background-position: center center;
+    background-size: cover;
     vertical-align: middle;
     background-repeat:no-repeat;
 }
