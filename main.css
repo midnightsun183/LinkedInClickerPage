@@ -153,21 +153,51 @@ table.browserref td {
 */
 
 .cardSpace {
-  row-gap: 40px;  
+    row-gap: 40px;  
 }
 
 .container {
-  height: 200px;
-  position: relative;
+    height: 200px;
+    position: relative;
+}
+
+.flex-container {
+  /* We first create a flex layout context */
+  display: flex;
+  
+  /* Then we define the flow direction 
+     and if we allow the items to wrap 
+   * Remember this is the same as:
+   * flex-direction: row;
+   * flex-wrap: wrap;
+   */
+    flex-flow: row wrap;
+  
+  /* Then we define how is distributed the remaining space */
+    justify-content: space-around;
+  
+    padding: 0;
+    margin: 0;
+ /* list-style: none; */
+    align-items: center; 
+}
+
+.flex-item {
+  background: #fafafa;
+  padding: 5px;
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+  line-height: 150px;
 }
 
 .center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 .vertical-center {
