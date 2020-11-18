@@ -24,7 +24,7 @@ body {
 
 .headerimg{
 	/*background-image: url("https://b.thumbs.redditmedia.com/oy9VnYHOrajBhnOrazUEyYexY5YkQxXxEh9Tg82wWEs.png"), target="blank";*/
-	background-image: url("images/QuikApply/Logos/Quickapply_Logo.svg"), target="blank";
+	background-image: url(images/QuikApply/Logos/Quickapply_Logo.svg), target="blank";
 	
     	/*background-repeat:no-repeat;*/	
 	width:auto;
