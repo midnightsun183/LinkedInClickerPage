@@ -19,16 +19,17 @@ body {
     height: 200px;
     min-height: 200px;
     max-height: 200px;
-	
+    background-image: url(images/QuikApply/Logos/Quickapply_Logo.svg);	
+    background-position: center center;
+    vertical-align: middle;
+    background-repeat:no-repeat;
 }
 
 .headerimg{
-    background-image: url(images/QuikApply/Logos/Quickapply_Logo.svg);	
-    background-repeat:no-repeat;
+    
+    
 
-    height:10px; 
-    background-position: center center;
-    vertical-align: middle;
+
 }
 
 
