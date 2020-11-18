@@ -277,7 +277,7 @@ p {
 
 /* Add a card effect for articles */
 .card {
-    background-color: #CCCCCC;
+    background-color: #fafafa;
     padding: 20px;
     margin: 20px  auto 20px auto;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
