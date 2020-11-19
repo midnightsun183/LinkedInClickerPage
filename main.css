@@ -307,7 +307,7 @@ p {
     padding: 20px;
    /* margin: 10px  auto 10px auto;*/
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    height 400pc;
+    height: 400px;
     display:block;	
 }
 
