@@ -332,6 +332,12 @@ p {
     display: block;
 }
 
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
 /*
 ul li{
     list-style-image: url('images/Checkmark_Icon.svg');
