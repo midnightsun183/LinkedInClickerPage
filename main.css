@@ -332,6 +332,7 @@ p {
     display: block;
 }
 
+/*
 ul li{
     list-style-image: url('images/Checkmark_Icon.svg');
     height: 25px;
@@ -340,7 +341,7 @@ ul li{
     list-style: none;
     margin-right: 20px;
 }
-
+*/
 
 footer,
 .footer {
