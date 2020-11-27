@@ -340,21 +340,20 @@ ul {
   text-align:left;
   margin: 15px 15px 15px 15px;
   list-style: none;
-  set-image-height: 1em;
-  list-style-image: url('images/Checkmark_Icon.svg');
+
+}
+
+ul::before{
+   
+   height: 1em;
+   background-image:url('images/Checkmark_Icon.svg');
 }
 
 /*
 li{
-   list-style: none;
+  
 }
 
-li::before{
-   content: '';
-   display: inline-block;
-   height: 1em;
-   background-image:url('images/Checkmark_Icon.svg');
-}
 
 
 
