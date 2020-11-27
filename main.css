@@ -344,6 +344,7 @@ ul {
 li::before{
    height: 1em;
    background-image:url('images/Checkmark_Icon.svg');
+   display: inline-block;
 }
 
 li{
