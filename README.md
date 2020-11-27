@@ -2,7 +2,7 @@
 
 To Do:
 
-[ ] Updates FAQ
+[] Updates FAQ
 
 [ ] Upated Install instructions
 
