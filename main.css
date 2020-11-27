@@ -344,10 +344,11 @@ ul {
 li{
    list-style: none;
 }
+
 li::before{
    content: '';
    display: inline-block;
-   height: 25px;
+   height: 1em;
    background-image:url('images/Checkmark_Icon.svg');
 }
 
