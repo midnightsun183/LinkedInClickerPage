@@ -339,7 +339,8 @@ ul {
   display: inline-block;
   text-align:left;
   margin: 15px 15px 15px 15px;
-}
+  list-style-image:url('images/Checkmark_Icon.svg');
+  height: 25px;
 
 /*
 ul li{
