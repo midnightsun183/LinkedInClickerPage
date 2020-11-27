@@ -306,7 +306,7 @@ p {
 .productImg {
     padding: 5px 5px;
    /* margin: 10px  auto 10px auto;*/
-    max-width:60%;
+    max-width:55%;
 
 }
 
@@ -350,8 +350,6 @@ li{
    padding: 10px 25px 10px;
    
 }
-
-
 
 footer,
 .footer {
