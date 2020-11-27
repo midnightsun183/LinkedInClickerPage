@@ -304,10 +304,8 @@ p {
 } 
 	
 .productImg {
-    padding: 5px 5px;
-   /* margin: 10px  auto 10px auto;*/
+    margin: 5px 5px;
     max-width:55%;
-
 }
 
 /* Add a card effect for articles */
