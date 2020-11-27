@@ -339,8 +339,12 @@ ul {
   display: inline-block;
   text-align:left;
   margin: 15px 15px 15px 15px;
+  list-style: none;
+  set-image-height: 1em;
+  list-style-image: url('images/Checkmark_Icon.svg');
 }
 
+/*
 li{
    list-style: none;
 }
@@ -354,7 +358,6 @@ li::before{
 
 
 
-/*
 ul li{
     list-style-image: url('images/Checkmark_Icon.svg');
     height: 25px;
