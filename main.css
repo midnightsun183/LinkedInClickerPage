@@ -339,12 +339,10 @@ ul {
   display: inline-block;
   text-align:left;
   margin: 15px 15px 15px 15px;
-  list-style: none;
-
 }
 
 ul::before{
-   
+   list-style: none;
    height: 1em;
    background-image:url('images/Checkmark_Icon.svg');
 }
