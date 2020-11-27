@@ -347,8 +347,8 @@ li{
    background-repeat: no-repeat;
    background-position: left center;
    background-size: 1em;
-   padding: auto 5px auto auto;
-   display: inline-block;
+   margin: auto 5px;
+   
 }
 
 
