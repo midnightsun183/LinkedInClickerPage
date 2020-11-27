@@ -348,33 +348,10 @@ li{
    background-position: left center;
    background-size: 1em;
    padding: auto 5px auto auto;
+
 }
 
 
-
-/*
-
-li::before{
-   background-size:contain;
-  
-   background-image:url('images/Checkmark_Icon.svg');
-   display: inline-block;
-}
-
-li{
-   list-style: none;
-}
-
-
-ul li{
-    list-style-image: url('images/Checkmark_Icon.svg');
-    height: 25px;
-    display: block;
-    float: left;
-    list-style: none;
-    margin-right: 20px;
-}
-*/
 
 footer,
 .footer {
