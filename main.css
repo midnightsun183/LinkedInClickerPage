@@ -346,7 +346,8 @@ li{
    background-image: url('images/Checkmark_Icon.svg');
    background-repeat: no-repeat;
    background-position: left center;
-   background-size: 15px;
+   background-size: 1em;
+   padding: auto 5px auto auto;
 }
 
 
