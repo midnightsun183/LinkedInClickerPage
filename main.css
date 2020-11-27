@@ -339,9 +339,19 @@ ul {
   display: inline-block;
   text-align:left;
   margin: 15px 15px 15px 15px;
-  list-style-image:url('images/Checkmark_Icon.svg');
-  height: 25px;
 }
+
+li{
+   list-style: none;
+}
+li::before{
+   content: '';
+   display: inline-block;
+   height: 25px;
+   background-image:url('images/Checkmark_Icon.svg');
+}
+
+
 
 /*
 ul li{
