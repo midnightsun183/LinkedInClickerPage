@@ -30,7 +30,7 @@ body {
 .backgroundImage{
  background-image: url(images/Click.svg);
  background-repeat: no-repeat;
- max-width: 25%;
+
  background-position:
     top left; 
 }
