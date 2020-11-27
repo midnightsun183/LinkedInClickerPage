@@ -341,19 +341,17 @@ ul {
   margin: 15px 15px 15px 15px;
 }
 
-ul::before{
-   list-style: none;
+li::before{
    height: 1em;
    background-image:url('images/Checkmark_Icon.svg');
 }
 
-/*
 li{
-  
+   list-style: none;
 }
 
 
-
+/*
 
 ul li{
     list-style-image: url('images/Checkmark_Icon.svg');
