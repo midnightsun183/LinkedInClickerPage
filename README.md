@@ -6,6 +6,7 @@ To Do:
 - [ ] Upated Install instructions
 - [ ] Update Resume Tips & tricks
 - [ ] Get screenshots of app 
+- [ ] InternBot applies only to internships
 -----
 https://www.youtube.com/watch?v=jp0eiGn4jto
 
