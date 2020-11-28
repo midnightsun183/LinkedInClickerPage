@@ -338,9 +338,8 @@ ul {
   -webkit-columns: 1;
   -moz-columns: 1;
   display: inline-block;
-  text-align:left;
-
-  
+  text-align:left;  
+  max-width: 20%; 
 }
 
 li{
@@ -353,7 +352,7 @@ li{
    padding: 10px 25px 10px;
    font-size: 140%;
    font-family: helvetica;
-   
+    
 }
 
 footer,
