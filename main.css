@@ -30,6 +30,7 @@ body {
 .backgroundImage{
  background-image: url(images/Click.svg);
  background-repeat: no-repeat;
+ background-size: contain;
 }
 
 
