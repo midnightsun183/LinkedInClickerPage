@@ -339,7 +339,7 @@ ul {
   -moz-columns: 1;
   display: inline-block;
   text-align:left;  
-  max-width: 44%;
+  max-width: 40%;
 }
 
 li{
