@@ -25,7 +25,7 @@ To Do:
 
 - [ ] Webshop – so that customers can obtain a license key to unlock functionality. When you have obfuscation and license verification in place, we need a way for customers to be able to order a license key. If you already have Stripe, you can use the recurring billing module, which acts like an interface for plans defined in your Stripe account. 
 
-- [ ] GUI and Packaging: https://build-system.fman.io/
+- [ ] GUI and Packaging: https://build-system.fman.io/, http://www.python-gui-builder.com/
 
 -----
 https://www.youtube.com/watch?v=jp0eiGn4jto
