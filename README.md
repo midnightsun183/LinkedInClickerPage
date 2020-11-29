@@ -12,7 +12,9 @@ To Do:
 
 - [ ] Code obfuscation – to ensure that no one can reverse engineer the application.
       To obfuscate your application, multiple tools can be used. 
-      You can either use packages such as pyarmor that are made to obfuscate Python code or open source tools such as pyinstaller in combination with cpython (for most       sensitive code).
+      You can either use packages such as pyarmor that are made to obfuscate Python code or open source tools such as pyinstaller in combination with cpython (for most       sensitive code).  
+https://www.codementor.io/@peequeelle/how-to-effectively-obfuscate-your-python-code-kdcoep1fs
+
 
 - [ ] License verification – to ensure that customers need a license key before they can use the application 
       (eg. so that you can restrict which features they can use and how long the license is valid).
@@ -35,6 +37,4 @@ https://github.com/harshibar/5-python-projects
 https://github.com/harshibar/common-intern
 
 https://cryptolens.io/2019/11/tips-on-monetizing-python-applications/
-
-https://www.codementor.io/@peequeelle/how-to-effectively-obfuscate-your-python-code-kdcoep1fs
 
