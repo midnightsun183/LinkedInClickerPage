@@ -19,6 +19,7 @@ To Do:
       icense verification
 
 A license key can be easily verified using the code below. You can find more information about the parameters here.
+''''Python
 
 from licensing.helpers import Helpers
 from licensing.models import Response, RSAPublicKey
@@ -34,8 +35,8 @@ if res[0] == None:
     print("An error occured: {0}".format(res[1]))
 else:
     print("Success")
-
-- [ ] Webshop – so that customers can obtain a license key to unlock functionality.
+''''
+- [ ] Webshop – so that customers can obtain a license key to unlock functionality. When you have obfuscation and license verification in place, we need a way for customers to be able to order a license key. If you already have Stripe, you can use the recurring billing module, which acts like an interface for plans defined in your Stripe account. 
 -----
 https://www.youtube.com/watch?v=jp0eiGn4jto
 
