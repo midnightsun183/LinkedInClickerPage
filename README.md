@@ -14,6 +14,7 @@ To Do:
       To obfuscate your application, multiple tools can be used. 
       You can either use packages such as pyarmor that are made to obfuscate Python code or open source tools such as pyinstaller in combination with cpython (for most       sensitive code).  
 https://www.codementor.io/@peequeelle/how-to-effectively-obfuscate-your-python-code-kdcoep1fs
+
 https://pypi.org/project/Opy/
 
 
