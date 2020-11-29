@@ -16,7 +16,7 @@ To Do:
       https://www.codementor.io/@peequeelle/how-to-effectively-obfuscate-your-python-code-kdcoep1fs
 
 
-      https://pypi.org/project/Opy/
+     https://pypi.org/project/Opy/
 
 
 - [ ] License verification – to ensure that customers need a license key before they can use the application 
