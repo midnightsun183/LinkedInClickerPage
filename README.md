@@ -19,7 +19,8 @@ To Do:
       icense verification
 
 A license key can be easily verified using the code below. You can find more information about the parameters here.
-''''Python
+
+''''python
 
 from licensing.helpers import Helpers
 from licensing.models import Response, RSAPublicKey
