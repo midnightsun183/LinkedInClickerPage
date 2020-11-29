@@ -1,5 +1,3 @@
-# LinkedInClickerPage
-
 To Do:
 
 - [ ] Updates FAQ
@@ -13,6 +11,8 @@ To Do:
 - [ ] InternBot applies only to internships
 
 - [ ] Code obfuscation – to ensure that no one can reverse engineer the application.
+      To obfuscate your application, multiple tools can be used. 
+      You can either use packages such as pyarmor that are made to obfuscate Python code or open source tools such as pyinstaller in combination with cpython (for most       sensitive code).
 
 - [ ] License verification – to ensure that customers need a license key before they can use the application 
       (eg. so that you can restrict which features they can use and how long the license is valid).
