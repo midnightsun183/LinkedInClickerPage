@@ -35,3 +35,6 @@ https://github.com/harshibar/5-python-projects
 https://github.com/harshibar/common-intern
 
 https://cryptolens.io/2019/11/tips-on-monetizing-python-applications/
+
+https://www.codementor.io/@peequeelle/how-to-effectively-obfuscate-your-python-code-kdcoep1fs
+
