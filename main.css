@@ -115,6 +115,8 @@ bsSafari,
     padding: 11px, 11px, 11px, 11px;
     vertical-align: middle;
     background-image: url(images/Checkmark_Icon.svg);
+    display: block;
+    background-size: contain;
 	
 }
 
