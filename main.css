@@ -105,6 +105,17 @@ bsSafari,
     vertical-align: middle;
     background-image: url(images/Safari_Icon.svg);
 }
+
+.FeatureCheckmark {
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 1px solid #d4d4d4;
+    font-weight: normal;
+    color: #555555;
+    padding: 11px, 11px, 11px, 11px;
+    vertical-align: middle;
+    background-image: url(images/checkmark.svg);
+
 .button {
    border-top: 1px solid #96d1f8;
    background: #007ccf;
