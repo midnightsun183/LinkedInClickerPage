@@ -35,15 +35,19 @@
 	</p>		
 		
 <div class="flex-container">
-	const options = {
-  duration: 3,
-};
-let demo = new CountUp('myTargetElement', 65406109, options);
-if (!demo.error) {
-  demo.start();
-} else {
-  console.error(demo.error);
-}
+	<script>
+			const options = {
+		  duration: 3,
+		};
+		let demo = new CountUp('myTargetElement', 65406109, options);
+		if (!demo.error) {
+		  demo.start();
+		} else {
+		  console.error(demo.error);
+		}
+	</script>
+	<div element = myTargetElement></div>
+	
 	<br>Applications & Counting<br>
 	<a href="/app/signup" class="button">Automate Your Job Search Now</a>
 </div>
