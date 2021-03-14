@@ -103,22 +103,47 @@
 <button type="button" class="collapsible">System Requirements</button>
 <div class="content">
 
-
+<br>
 	<H3>Windows</H3>
+	<br>
 
 Windows 8 or newer (Windows 7 should work too, but is not supported).
-
+	<br>
+	<br>
+	
 <H3> Mac OS X<H3>
 
 Mac OS X 10.7 (Lion) or newer. 
+		<br>
+	<br>
+	
 	
 	<H3>GNU/Linux</H3>
-Users have reported success on these platforms, but it is not tested nor supported on these systems. 
+	<br>
+Linux and GNU are not actively supported but many users have reported sucess. Running this app requires the ldd terminal application to discover the shared libraries required by each program or shared library. It is typically found in the distribution-package glibc or libc-bin.
+<br>
+It also requires the objdump terminal application to extract information from object files and the objcopy terminal application to append data to the bootloader. These are typically found in the distribution-package binutils.
+	<br>
+	<br>
+	
+	<H3>AIX, Solaris, FreeBSD and OpenBSD</H3>
+<br>
+Users have reported success running on these platforms, but it is not tested nor supported on these systems at this time. 
 
 </div>
 	
 	
 	
+AIX, Solaris, FreeBSD and OpenBSD
+
+Users have reported success running PyInstaller on these platforms, but it is not tested on them. The ldd and objdump commands are needed.
+
+Each bundled app contains a copy of a bootloader, a program that sets up the application and starts it (see The Bootstrap Process in Detail).
+
+When you install PyInstaller using pip, the setup will attempt to build a bootloader for this platform. If that succeeds, the installation continues and PyInstaller is ready to use.
+
+If the pip setup fails to build a bootloader, or if you do not use pip to install, you must compile a bootloader manually. The process is described under Building the Bootloader.
+
 	
 	
 	
